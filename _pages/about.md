@@ -72,6 +72,11 @@ Preprints
     <b>Nan Jiang</b>, Xiaopeng Li, Shiqi Wang, Qiang Zhou, Soneya Binta Hossain, Baishakhi Ray, Varun Kumar, Xiaofei Ma, Anoop Deoras
   </li>
   <li>
+    <a href="https://arxiv.org/abs/2409.14201"><em>LATTE: Improving Latex Recognition for Tables and Formulae with Iterative Refinement</em></a>
+    <br>
+    <b>Nan Jiang</b>, Shanchao Liang, Chengxiao Wang, Jiannan Wang, Lin Tan
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2306.02546"><em>Leveraging Generative Models to Recover Variable Names from Stripped Binary</em></a>
     <br>
     Xiangzhe Xu, Zhuo Zhang, Zian Su, Ziyang Huang, Shiwei Feng, Yapeng Ye, <b>Nan Jiang</b>, Danning Xie, Siyuan Cheng, Lin Tan, Xiangyu Zhang
