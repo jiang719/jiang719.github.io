@@ -15,6 +15,12 @@ Publications
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
+    <a href="https://neurips.cc/Conferences/2024">[NeurIPS-2024]</a>
+    <a href="https://arxiv.org/abs/2405.18649"><em>Training LLMs to Better Self-Debug and Explain Code</em></a>
+    <br>
+    <b>Nan Jiang</b>, Xiaopeng Li, Shiqi Wang, Qiang Zhou, Soneya Binta Hossain, Baishakhi Ray, Varun Kumar, Xiaofei Ma, Anoop Deoras
+  </li>
+  <li>
     <a href="https://conf.researchr.org/home/fse-2024">[FSE-2024]</a>
     <a href="https://dl.acm.org/doi/10.1145/3660773"><em>A Deep Dive into Large Language Models for Automated Bug Localization and Repair</em></a>
     <br>
@@ -65,11 +71,6 @@ Preprints
     <a href="https://arxiv.org/abs/2311.13721"><em>Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning</em></a>
     <br>
     <b>Nan Jiang</b>, Chengxiao Wang, Kevin Liu, Xiangzhe Xu, Lin Tan, Xiangyu Zhang
-  </li>
-  <li>
-    <a href="https://arxiv.org/abs/2405.18649"><em>Training LLMs to Better Self-Debug and Explain Code</em></a>
-    <br>
-    <b>Nan Jiang</b>, Xiaopeng Li, Shiqi Wang, Qiang Zhou, Soneya Binta Hossain, Baishakhi Ray, Varun Kumar, Xiaofei Ma, Anoop Deoras
   </li>
   <li>
     <a href="https://arxiv.org/abs/2409.14201"><em>LATTE: Improving Latex Recognition for Tables and Formulae with Iterative Refinement</em></a>
