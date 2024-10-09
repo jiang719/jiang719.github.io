@@ -93,6 +93,12 @@ Services
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
+    PC Member, <a href="https://iclr.cc/Conferences/2025">ICLR 2025</a>
+  </li>
+  <li>
+    PC Member, <a href="https://program-repair.org/workshop-2025/">Workshop on Automated Program Repair (Co-located with ICSE 2025)</a>
+  </li>
+  <li>
     PC Member, <a href="https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track">ASE 2024 Artifact Evaluation Track</a>
   </li>
   <li>
