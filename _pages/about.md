@@ -21,16 +21,16 @@ Publications
     <b>Nan Jiang</b>, Xiaopeng Li, Shiqi Wang, Qiang Zhou, Soneya Binta Hossain, Baishakhi Ray, Varun Kumar, Xiaofei Ma, Anoop Deoras
   </li>
   <li>
+    <a href="https://www.sigsac.org/ccs/CCS2024/">[CCS-2024]</a>
+    <a href="https://www.cs.purdue.edu/homes/lintan/publications/resym-ccs24.pdf"><em>ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries</em></a>
+    <br>🏆 <em>Won ACM SIGSAC Distinguished Paper</em><br>
+    Danning Xie, Zhuo Zhang, <b>Nan Jiang</b>, Xiangzhe Xu, Lin Tan, Xiangyu Zhang
+  </li>
+  <li>
     <a href="https://conf.researchr.org/home/fse-2024">[FSE-2024]</a>
     <a href="https://dl.acm.org/doi/10.1145/3660773"><em>A Deep Dive into Large Language Models for Automated Bug Localization and Repair</em></a>
     <br>
     Soneya Binta Hossain, <b>Nan Jiang</b>, Qiang Zhou, Xiaopeng Li, Wen-Hao Chiang, Yingjun Lyu, Hoan Nguyen, Omer Tripp
-  </li>
-  <li>
-    <a href="https://www.sigsac.org/ccs/CCS2024/">[CCS-2024]</a>
-    <a href="https://www.cs.purdue.edu/homes/lintan/publications/resym-ccs24.pdf"><em>ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries</em></a>
-    <br>🏆 Won ACM SIGSAC Distinguished Paper<br>
-    Danning Xie, Zhuo Zhang, <b>Nan Jiang</b>, Xiangzhe Xu, Lin Tan, Xiangyu Zhang
   </li>
   <li>
     <a href="https://conf.researchr.org/home/issta-2023">[ISSTA-2023]</a>
