@@ -29,7 +29,7 @@ Publications
   <li>
     <a href="https://www.sigsac.org/ccs/CCS2024/">[CCS-2024]</a>
     <a href="https://www.cs.purdue.edu/homes/lintan/publications/resym-ccs24.pdf"><em>ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries</em></a>
-    <br>
+    <br>🏆 Won ACM SIGSAC Distinguished Paper<br>
     Danning Xie, Zhuo Zhang, <b>Nan Jiang</b>, Xiangzhe Xu, Lin Tan, Xiangyu Zhang
   </li>
   <li>
@@ -67,6 +67,16 @@ Publications
 Preprints
 -----
 <ul style="line-height: 1.2; font-size:16px">
+  <li>
+    <a href="https://arxiv.org/abs/2410.09997"><em>Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code</em></a>
+    <br>
+    <b>Nan Jiang</b>, Qi Li, Lin Tan, Tianyi Zhang
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2409.19471"><em>SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models</em></a>
+    <br>
+    Yi Wu, Zikang Xiong, Yiran Hu, Shreyash S. Iyengar, <b>Nan Jiang</b>, Aniket Bera, Lin Tan, Suresh Jagannathan
+  </li>
   <li>
     <a href="https://arxiv.org/abs/2311.13721"><em>Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning</em></a>
     <br>
@@ -108,7 +118,7 @@ Services
     PC Member, <a href="https://2023.esec-fse.org/track/fse-2023-artifacts">FSE 2023 Artifact Evaluation Track</a>
   </li>
   <li>
-    Reviewer, <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32">TSE 2024</a>
+    Reviewer, <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32">TSE 2024</a> (twice)
   </li>
   <li>
     Reviewer, <a href="https://dl.acm.org/journal/tosem">TOSEM 2023</a>, <a href="https://dl.acm.org/journal/tosem">TOSEM 2024</a> (three times)
