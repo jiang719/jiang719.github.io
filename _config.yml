@@ -21,7 +21,7 @@ repository               : "jiang719/jiang719.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "nan_jiang.jpg"
   name             : "Nan Jiang"
   pronouns         : # example: "she/her"  
   bio              : "Fifth-year Ph.D. student in Computer Science at Purdue University, interested in AI for Software Engineering."
