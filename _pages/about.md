@@ -12,10 +12,13 @@ redirect_from:
     display: inline-block;
     padding: 2px 10px;
     color: black;
-    background-color: #86cecb;
+    background-color: #bec8d1;
     text-align: center;
     text-decoration: none;
     border-radius: 10px;
+  }
+  a {
+    text-decoration: none;
   }
 </style>
 
@@ -32,7 +35,6 @@ Publications
     <a href="https://arxiv.org/abs/2405.18649"><em>Training LLMs to Better Self-Debug and Explain Code</em></a>
     <br>
     <b>Nan Jiang</b>, Xiaopeng Li, Shiqi Wang, Qiang Zhou, Soneya Binta Hossain, Baishakhi Ray, Varun Kumar, Xiaofei Ma, Anoop Deoras
-    <br>
     <a href="https://ledex-llm.github.io/" class="button">Page</a>
     <a href="https://drive.google.com/file/d/17uaixGrYwjhEgqGjlk6hKdYMRwb4MU0y/view" class="button">Poster</a>
   </li>
@@ -41,7 +43,6 @@ Publications
     <a href="https://www.cs.purdue.edu/homes/lintan/publications/resym-ccs24.pdf"><em>ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries</em></a>
     <br>🏆 <em>Won ACM SIGSAC Distinguished Paper</em><br>
     Danning Xie, Zhuo Zhang, <b>Nan Jiang</b>, Xiangzhe Xu, Lin Tan, Xiangyu Zhang
-    <br>
     <a href="https://github.com/lt-asset/resym" class="button">Data</a>
   </li>
   <li>
@@ -89,14 +90,12 @@ Preprints
     <a href="https://arxiv.org/abs/2410.18362"><em>WAFFLE: Multi-Modal Model for Automated Front-End Development</em></a>
     <br>
     Shanchao Liang, <b>Nan Jiang</b>, Shangshu Qian, Lin Tan
-    <br>
     <a href="https://huggingface.co/lt-asset/Waffle_VLM_WebSight" class="button">Model</a>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2410.09997"><em>Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code</em></a>
     <br>
     <b>Nan Jiang</b>, Qi Li, Lin Tan, Tianyi Zhang
-    <br>
     <a href="https://huggingface.co/datasets/lt-asset/collu-bench" class="button">Data</a>
   </li>
   <li>
@@ -108,7 +107,6 @@ Preprints
     <a href="https://arxiv.org/abs/2311.13721"><em>Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning</em></a>
     <br>
     <b>Nan Jiang</b>, Chengxiao Wang, Kevin Liu, Xiangzhe Xu, Lin Tan, Xiangyu Zhang
-    <br>
     <a href="https://huggingface.co/lt-asset/nova-6.7b-bcr" class="button">Model</a>
   </li>
   <li>
@@ -125,7 +123,6 @@ Preprints
     <a href="https://arxiv.org/abs/2306.03324"><em>Impact of Large Language Models on Generating Software Specifications</em></a>
     <br>
     Danning Xie, Byungwoo Yoo, <b>Nan Jiang</b>, Mijung Kim, Lin Tan, Xiangyu Zhang, Judy S. Lee
-    <br>
     <a href="https://drive.google.com/file/d/1sNvHqNmsux1xfOAHWuKPB8mbbAMN4Obt/view?usp=sharing" class="button">Poster</a>
   </li>
 </ul>
