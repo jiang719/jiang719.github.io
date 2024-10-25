@@ -153,6 +153,6 @@ Education
     Ph.D in Computer Science, <a href="https://www.cs.purdue.edu/">Purdue University</a>, 2025 (expected)
   </li>
   <li>
-    B.S. in Conputer Science, <a href="https://english.pku.edu.cn/">Peking University</a>, 2019
+    B.S. in Computer Science, <a href="https://english.pku.edu.cn/">Peking University</a>, 2019
   </li>
 </ul>
