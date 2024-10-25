@@ -91,7 +91,7 @@ Preprints
     <a href="https://huggingface.co/lt-asset/Waffle_VLM_WebSight" style="text-decoration: none;" class="button">Model</a>
   </li>
   <li>
-    <a href="https://arxiv.org/abs/2410.09997"><em>Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code</em></a>
+    <a href="https://arxiv.org/abs/2410.09997" style="text-decoration: none;"><em>Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code</em></a>
     <br>
     <b>Nan Jiang</b>, Qi Li, Lin Tan, Tianyi Zhang
     <a href="https://huggingface.co/datasets/lt-asset/collu-bench" style="text-decoration: none;" class="button">Data</a>
