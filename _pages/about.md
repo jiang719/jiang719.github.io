@@ -89,6 +89,7 @@ Preprints
     <br>
     Shanchao Liang, <b>Nan Jiang</b>, Shangshu Qian, Lin Tan
     <a href="https://huggingface.co/lt-asset/Waffle_VLM_WebSight" style="text-decoration: none;" class="button">Model</a>
+    <a href="https://github.com/lt-asset/Waffle" style="text-decoration: none;" class="button">Data</a>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2410.09997" style="text-decoration: none;"><em>Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code</em></a>
