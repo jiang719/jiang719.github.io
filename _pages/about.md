@@ -21,7 +21,7 @@ redirect_from:
 </style>
 
 
-<p style="font-size:16px">I am a fifth-year Ph.D. student in Computer Science at <a href="https://www.cs.purdue.edu/" style="text-decoration: none;">Purdue University</a>. I am working with Prof. <a href="https://www.cs.purdue.edu/homes/lintan/" style="text-decoration: none;">Lin Tan</a> on leveraging AI techniques on software engineering tasks. My research mainly focuses on building better AI-assistant to support the various stages of software development, including code generation, program repair, vulnerability fixing, etc.</p>
+<p style="font-size:16px">I am a fifth-year Ph.D. student in Computer Science at <a href="https://www.cs.purdue.edu/" style="text-decoration: none;">Purdue University</a>. I am working with Prof. <a href="https://www.cs.purdue.edu/homes/lintan/" style="text-decoration: none;">Lin Tan</a> on leveraging AI techniques on software engineering tasks. My research mainly focuses on applying domain knowledge to build more accurate and practical AI assistants for software development, including code generation, program repair, program analysis, and so on.</p>
 
 <em style="font-size:16px">I am on the academic job market!</em>
 
@@ -86,6 +86,12 @@ Publications
 Preprints
 -----
 <ul style="line-height: 1.2; font-size:16px">
+  <li>
+    <a href="https://arxiv.org/abs/2410.21647" style="text-decoration: none;"><em>Can Language Models Replace Programmers? REPOCOD Says 'Not Yet'</em></a>
+    <br>
+    Shanchao Liang, Yiran Hu, <b>Nan Jiang</b>, Lin Tan
+    <a href="https://huggingface.co/datasets/lt-asset/REPOCOD" style="text-decoration: none;" class="button">Data</a>
+  </li>
   <li>
     <a href="https://arxiv.org/abs/2410.18362" style="text-decoration: none;"><em>WAFFLE: Multi-Modal Model for Automated Front-End Development</em></a>
     <br>
