@@ -44,6 +44,19 @@ Publications
     <a href="https://github.com/lt-asset/resym" style="text-decoration: none;" class="button">Data</a>
   </li>
   <li>
+    <a href="https://conf.researchr.org/home/saner-2025" style="text-decoration: none;">[SEANER-2025]</a>
+    <a href="https://arxiv.org/abs/2306.03324" style="text-decoration: none;"><em>Impact of Large Language Models on Generating Software Specifications</em></a>
+    <br>
+    Danning Xie, Byungwoo Yoo, <b>Nan Jiang</b>, Mijung Kim, Lin Tan, Xiangyu Zhang, Judy S. Lee
+    <a href="https://drive.google.com/file/d/1sNvHqNmsux1xfOAHWuKPB8mbbAMN4Obt/view?usp=sharing" style="text-decoration: none;" class="button">Poster</a>
+  </li>
+  <li>
+    <a href="https://www.ndss-symposium.org/ndss2025/" style="text-decoration: none;">[NDSS-2025]</a>
+    <a href="https://arxiv.org/abs/2306.02546" style="text-decoration: none;"><em>Leveraging Generative Models to Recover Variable Names from Stripped Binary</em></a>
+    <br>
+    Xiangzhe Xu, Zhuo Zhang, Zian Su, Ziyang Huang, Shiwei Feng, Yapeng Ye, <b>Nan Jiang</b>, Danning Xie, Siyuan Cheng, Lin Tan, Xiangyu Zhang
+  </li>
+  <li>
     <a href="https://conf.researchr.org/home/fse-2024" style="text-decoration: none;">[FSE-2024]</a>
     <a href="https://dl.acm.org/doi/10.1145/3660773" style="text-decoration: none;"><em>A Deep Dive into Large Language Models for Automated Bug Localization and Repair</em></a>
     <br>
@@ -121,17 +134,6 @@ Preprints
     <br>
     <b>Nan Jiang</b>, Shanchao Liang, Chengxiao Wang, Jiannan Wang, Lin Tan
   </li>
-  <li>
-    <a href="https://arxiv.org/abs/2306.02546" style="text-decoration: none;"><em>Leveraging Generative Models to Recover Variable Names from Stripped Binary</em></a>
-    <br>
-    Xiangzhe Xu, Zhuo Zhang, Zian Su, Ziyang Huang, Shiwei Feng, Yapeng Ye, <b>Nan Jiang</b>, Danning Xie, Siyuan Cheng, Lin Tan, Xiangyu Zhang
-  </li>
-  <li>
-    <a href="https://arxiv.org/abs/2306.03324" style="text-decoration: none;"><em>Impact of Large Language Models on Generating Software Specifications</em></a>
-    <br>
-    Danning Xie, Byungwoo Yoo, <b>Nan Jiang</b>, Mijung Kim, Lin Tan, Xiangyu Zhang, Judy S. Lee
-    <a href="https://drive.google.com/file/d/1sNvHqNmsux1xfOAHWuKPB8mbbAMN4Obt/view?usp=sharing" style="text-decoration: none;" class="button">Poster</a>
-  </li>
 </ul>
 
 Services
@@ -156,7 +158,7 @@ Services
     Reviewer, <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32" style="text-decoration: none;">TSE 2024</a> (twice)
   </li>
   <li>
-    Reviewer, <a href="https://dl.acm.org/journal/tosem" style="text-decoration: none;">TOSEM 2023</a>, <a href="https://dl.acm.org/journal/tosem" style="text-decoration: none;">TOSEM 2024</a> (three times)
+    Reviewer, <a href="https://dl.acm.org/journal/tosem" style="text-decoration: none;">TOSEM 2023</a>, <a href="https://dl.acm.org/journal/tosem" style="text-decoration: none;">TOSEM 2024</a> (five times)
   </li>
   <li>
     Reviewer, <a href="https://open-research-europe.ec.europa.eu/" style="text-decoration: none;">Open Research Europe 2024</a>
