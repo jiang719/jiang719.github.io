@@ -29,6 +29,12 @@ Publications
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
+    <a href="https://aaai.org/conference/aaai/aaai-25/" style="text-decoration: none;">[AAAI-2025]</a>
+    <a href="https://arxiv.org/abs/2409.14201" style="text-decoration: none;"><em>LATTE: Improving Latex Recognition for Tables and Formulae with Iterative Refinement</em></a>
+    <br>
+    <b>Nan Jiang</b>, Shanchao Liang, Chengxiao Wang, Jiannan Wang, Lin Tan
+  </li>
+  <li>
     <a href="https://neurips.cc/Conferences/2024" style="text-decoration: none;">[NeurIPS-2024]</a>
     <a href="https://arxiv.org/abs/2405.18649" style="text-decoration: none;"><em>Training LLMs to Better Self-Debug and Explain Code</em></a>
     <br>
@@ -38,7 +44,7 @@ Publications
   </li>
   <li>
     <a href="https://www.sigsac.org/ccs/CCS2024/" style="text-decoration: none;">[CCS-2024]</a>
-    <a href="https://www.cs.purdue.edu/homes/lintan/publications/resym-ccs24.pdf" style="text-decoration: none;"><em>ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries</em></a>
+    <a href="https://dl.acm.org/doi/10.1145/3658644.3670340" style="text-decoration: none;"><em>ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries</em></a>
     <br>🏆 <em>Won ACM SIGSAC Distinguished Paper</em><br>
     Danning Xie, Zhuo Zhang, <b>Nan Jiang</b>, Xiangzhe Xu, Lin Tan, Xiangyu Zhang
     <a href="https://github.com/lt-asset/resym" style="text-decoration: none;" class="button">Data</a>
@@ -100,6 +106,12 @@ Preprints
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
+    <a href="https://arxiv.org/abs/2311.13721" style="text-decoration: none;"><em>Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning</em></a>
+    <br>
+    <b>Nan Jiang</b>, Chengxiao Wang, Kevin Liu, Xiangzhe Xu, Lin Tan, Xiangyu Zhang
+    <a href="https://huggingface.co/lt-asset/nova-6.7b-bcr" style="text-decoration: none;" class="button">Model</a>
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2410.21647" style="text-decoration: none;"><em>Can Language Models Replace Programmers? REPOCOD Says 'Not Yet'</em></a>
     <br>
     Shanchao Liang, Yiran Hu, <b>Nan Jiang</b>, Lin Tan
@@ -122,17 +134,6 @@ Preprints
     <a href="https://arxiv.org/abs/2409.19471" style="text-decoration: none;"><em>SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models</em></a>
     <br>
     Yi Wu, Zikang Xiong, Yiran Hu, Shreyash S. Iyengar, <b>Nan Jiang</b>, Aniket Bera, Lin Tan, Suresh Jagannathan
-  </li>
-  <li>
-    <a href="https://arxiv.org/abs/2311.13721" style="text-decoration: none;"><em>Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning</em></a>
-    <br>
-    <b>Nan Jiang</b>, Chengxiao Wang, Kevin Liu, Xiangzhe Xu, Lin Tan, Xiangyu Zhang
-    <a href="https://huggingface.co/lt-asset/nova-6.7b-bcr" style="text-decoration: none;" class="button">Model</a>
-  </li>
-  <li>
-    <a href="https://arxiv.org/abs/2409.14201" style="text-decoration: none;"><em>LATTE: Improving Latex Recognition for Tables and Formulae with Iterative Refinement</em></a>
-    <br>
-    <b>Nan Jiang</b>, Shanchao Liang, Chengxiao Wang, Jiannan Wang, Lin Tan
   </li>
 </ul>
 
