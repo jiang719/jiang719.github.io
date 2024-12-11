@@ -23,10 +23,9 @@ redirect_from:
 
 <p style="font-size:16px">I am a fifth-year Ph.D. candidate in Computer Science at <a href="https://www.cs.purdue.edu/" style="text-decoration: none;">Purdue University</a>. I am working with Prof. <a href="https://www.cs.purdue.edu/homes/lintan/" style="text-decoration: none;">Lin Tan</a> on leveraging Artificial Intelligence techniques on Software Engineering tasks. My research aims to build accurate and practical AI assistants to support software development. I have publications and ongoing research supporting various stages of the software development lifecycle, including specification generation and front-end interface design in the “Designing” stage; source code generation in the “Implementation” stage; automated program repair in the “Testing” stages; and security fixing and reverse engineering in the “Maintenance” stage. </p>
 
-<p> My research is guided by the key insight that effective AI assistants must incorporate “domain knowledge” specific to software engineering. Domain knowledge is a broad term that refers to specialized insights within a particular field. In software engineering, domain knowledge includes programming language syntax, semantics, developers' programming practices, and so on. My work identifies four approaches to equip AI models with such expertise: (1) leveraging knowledge-rich big data to train AI models, (2) designing domain-specific architectures for programs, (3) tailoring learning objectives, and (4) incorporating domain knowledge as inference constraints. </p>
+<p style="font-size:16px">My research is guided by the key insight that effective AI assistants must incorporate “domain knowledge” specific to software engineering. Domain knowledge is a broad term that refers to specialized insights within a particular field. In software engineering, domain knowledge includes programming language syntax, semantics, developers' programming practices, and so on. My work identifies four approaches to equip AI models with such expertise: (1) leveraging knowledge-rich big data to train AI models, (2) designing domain-specific architectures for programs, (3) tailoring learning objectives, and (4) incorporating domain knowledge as inference constraints. </p>
 
 <em style="font-size:16px">I am on the academic job market!</em>
-
 
 
 Publications
