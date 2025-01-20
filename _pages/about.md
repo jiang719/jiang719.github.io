@@ -144,7 +144,7 @@ Services
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
-    PC Member, <a href="https://conf.researchr.org/track/forge-2025/forge-2025-benchmarking", style="text-decoration: none;">FORGE 2025 Data and Benchmarking Track (Co-located with ICSE 2025)</a>
+    PC Member, <a href="https://conf.researchr.org/track/forge-2025/forge-2025-benchmarking" style="text-decoration: none;">FORGE 2025 Data and Benchmarking Track (Co-located with ICSE 2025)</a>
   </li>
   <li>
     PC Member, <a href="https://iclr.cc/Conferences/2025" style="text-decoration: none;">ICLR 2025</a>
