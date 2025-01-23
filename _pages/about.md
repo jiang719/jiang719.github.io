@@ -145,6 +145,9 @@ Services
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
+    PC Member, <a href="https://conf.researchr.org/track/forge-2025/forge-2025-benchmarking" style="text-decoration: none;">FORGE 2025 Data and Benchmarking Track (Co-located with ICSE 2025)</a>
+  </li>
+  <li>
     PC Member, <a href="https://iclr.cc/Conferences/2025" style="text-decoration: none;">ICLR 2025</a>
   </li>
   <li>
@@ -160,10 +163,13 @@ Services
     PC Member, <a href="https://2023.esec-fse.org/track/fse-2023-artifacts" style="text-decoration: none;">FSE 2023 Artifact Evaluation Track</a>
   </li>
   <li>
-    Reviewer, <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32" style="text-decoration: none;">TSE 2024</a> (twice)
+    Reviewer, <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32" style="text-decoration: none;">TSE 2024</a> (twice), <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32" style="text-decoration: none;">TSE 2025</a>
   </li>
   <li>
     Reviewer, <a href="https://dl.acm.org/journal/tosem" style="text-decoration: none;">TOSEM 2023</a>, <a href="https://dl.acm.org/journal/tosem" style="text-decoration: none;">TOSEM 2024</a> (five times)
+  </li>
+  <li>
+    Reviewer, <a href="" style="text-decoration: none;">EISEJ 2024</a> (twice)
   </li>
   <li>
     Reviewer, <a href="https://open-research-europe.ec.europa.eu/" style="text-decoration: none;">Open Research Europe 2024</a>
