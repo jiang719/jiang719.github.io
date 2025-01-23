@@ -43,6 +43,8 @@ Publications
     <a href="https://arxiv.org/abs/2409.14201" style="text-decoration: none;"><em>LATTE: Improving Latex Recognition for Tables and Formulae with Iterative Refinement</em></a>
     <br>
     <b>Nan Jiang</b>, Shanchao Liang, Chengxiao Wang, Jiannan Wang, Lin Tan
+    <a href="https://huggingface.co/datasets/lt-asset/tab2latex" style="text-decoration: none;" class="button">Data</a>
+    <a href="https://drive.google.com/file/d/1HKZukF2FPX8Cn51R9DeJoyPXakiVtnDV/view?usp=sharing" style="text-decoration: none;" class="button">Poster</a>
   </li>
   <li>
     <a href="https://neurips.cc/Conferences/2024" style="text-decoration: none;">[NeurIPS-2024]</a>
