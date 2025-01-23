@@ -32,6 +32,13 @@ Publications
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
+    <a href="https://iclr.cc/Conferences/2025" style="text-decoration: none;">[ICLR-2025]</a>
+    <a href="https://arxiv.org/abs/2311.13721" style="text-decoration: none;"><em>Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning</em></a>
+    <br>
+    <b>Nan Jiang</b>, Chengxiao Wang, Kevin Liu, Xiangzhe Xu, Lin Tan, Xiangyu Zhang
+    <a href="https://huggingface.co/lt-asset/nova-6.7b-bcr" style="text-decoration: none;" class="button">Model</a>
+  </li>
+  <li>
     <a href="https://aaai.org/conference/aaai/aaai-25/" style="text-decoration: none;">[AAAI-2025]</a>
     <a href="https://arxiv.org/abs/2409.14201" style="text-decoration: none;"><em>LATTE: Improving Latex Recognition for Tables and Formulae with Iterative Refinement</em></a>
     <br>
@@ -108,12 +115,6 @@ Publications
 Preprints
 -----
 <ul style="line-height: 1.2; font-size:16px">
-  <li>
-    <a href="https://arxiv.org/abs/2311.13721" style="text-decoration: none;"><em>Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning</em></a>
-    <br>
-    <b>Nan Jiang</b>, Chengxiao Wang, Kevin Liu, Xiangzhe Xu, Lin Tan, Xiangyu Zhang
-    <a href="https://huggingface.co/lt-asset/nova-6.7b-bcr" style="text-decoration: none;" class="button">Model</a>
-  </li>
   <li>
     <a href="https://arxiv.org/abs/2410.21647" style="text-decoration: none;"><em>Can Language Models Replace Programmers? REPOCOD Says 'Not Yet'</em></a>
     <br>
