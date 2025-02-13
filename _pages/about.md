@@ -39,6 +39,18 @@ Publications
     <a href="https://huggingface.co/lt-asset/nova-6.7b-bcr" style="text-decoration: none;" class="button">Model</a>
   </li>
   <li>
+    <a href="https://2025.ieee-icra.org/" style="text-decoration: none;">[ICRA-2025]</a>
+    <a href="https://arxiv.org/abs/2409.19471" style="text-decoration: none;"><em>SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models</em></a>
+    <br>
+    Yi Wu, Zikang Xiong, Yiran Hu, Shreyash S. Iyengar, <b>Nan Jiang</b>, Aniket Bera, Lin Tan, Suresh Jagannathan
+  </li>
+  <li>
+    <a href="https://2025.splashcon.org/track/OOPSLA" style="text-decoration: none;">[OOPSLA-2025]</a>
+    <em>Show Me Why It's Correct: Saving 1/3 of Debugging Time in Program Repair with Interactive Runtime Comparison</em>
+    <br>
+    Ruixin Wang, Zhongkai Zhao, Le Fang, <b>Nan Jiang</b>, Yiling Lou, Lin Tan, Tianyi Zhang
+  </li>
+  <li>
     <a href="https://aaai.org/conference/aaai/aaai-25/" style="text-decoration: none;">[AAAI-2025]</a>
     <a href="https://arxiv.org/abs/2409.14201" style="text-decoration: none;"><em>LATTE: Improving Latex Recognition for Tables and Formulae with Iterative Refinement</em></a>
     <br>
@@ -136,11 +148,6 @@ Preprints
     <b>Nan Jiang</b>, Qi Li, Lin Tan, Tianyi Zhang
     <a href="https://huggingface.co/datasets/lt-asset/collu-bench" style="text-decoration: none;" class="button">Data</a>
   </li>
-  <li>
-    <a href="https://arxiv.org/abs/2409.19471" style="text-decoration: none;"><em>SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models</em></a>
-    <br>
-    Yi Wu, Zikang Xiong, Yiran Hu, Shreyash S. Iyengar, <b>Nan Jiang</b>, Aniket Bera, Lin Tan, Suresh Jagannathan
-  </li>
 </ul>
 
 Services
@@ -165,7 +172,7 @@ Services
     PC Member, <a href="https://2023.esec-fse.org/track/fse-2023-artifacts" style="text-decoration: none;">FSE 2023 Artifact Evaluation Track</a>
   </li>
   <li>
-    Reviewer, <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32" style="text-decoration: none;">TSE 2024</a> (four times)
+    Reviewer, <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32" style="text-decoration: none;">TSE 2024</a> (four times), <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32" style="text-decoration: none;">TSE 2025</a>
   </li>
   <li>
     Reviewer, <a href="https://dl.acm.org/journal/tosem" style="text-decoration: none;">TOSEM 2023</a>, <a href="https://dl.acm.org/journal/tosem" style="text-decoration: none;">TOSEM 2024</a> (six times)
