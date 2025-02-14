@@ -25,8 +25,7 @@ redirect_from:
 
 <p style="font-size:16px">My research is guided by the key insight that effective AI assistants must incorporate “domain knowledge” specific to software engineering. Domain knowledge is a broad term that refers to specialized insights within a particular field. In software engineering, domain knowledge includes programming language syntax, semantics, developers' programming practices, and so on. My work identifies four approaches to equip AI models with such expertise: (1) leveraging knowledge-rich big data to train AI models, (2) designing domain-specific architectures for programs, (3) tailoring learning objectives, and (4) incorporating domain knowledge as inference constraints. </p>
 
-<p style="font-size:16px; font-weight:bold; color:#ff0000">I am on the academic job market!</p> <a href="https://jiang719.github.io/files/Resume.pdf">[CV]<a><a href="https://jiang719.github.io/files/Research Statement.pdf">[Research Statement]<a>
-
+<p style="font-size:16px; font-weight:bold; color:#ff0000">I am on the academic job market! <a href="https://jiang719.github.io/files/Resume.pdf" style="text-decoration: none;">[CV]<a><a href="https://jiang719.github.io/files/Research Statement.pdf" style="text-decoration: none;">[Research Statement]<a></p>
 
 Publications
 -----
