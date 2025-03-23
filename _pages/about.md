@@ -172,10 +172,10 @@ Services
     PC Member, <a href="https://2023.esec-fse.org/track/fse-2023-artifacts" style="text-decoration: none;">FSE 2023 Artifact Evaluation Track</a>
   </li>
   <li>
-    Reviewer, <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32" style="text-decoration: none;">TSE 2024</a> (four times), <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32" style="text-decoration: none;">TSE 2025</a>
+    Reviewer, <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32" style="text-decoration: none;">TSE 2024</a> (five times), <a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=32" style="text-decoration: none;">TSE 2025</a>
   </li>
   <li>
-    Reviewer, <a href="https://dl.acm.org/journal/tosem" style="text-decoration: none;">TOSEM 2023</a>, <a href="https://dl.acm.org/journal/tosem" style="text-decoration: none;">TOSEM 2024</a> (six times)
+    Reviewer, <a href="https://dl.acm.org/journal/tosem" style="text-decoration: none;">TOSEM 2023</a>, <a href="https://dl.acm.org/journal/tosem" style="text-decoration: none;">TOSEM 2024</a> (seven times)
   </li>
   <li>
     Reviewer, <a href="" style="text-decoration: none;">EISEJ 2024</a> (twice)
