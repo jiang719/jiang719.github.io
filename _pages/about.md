@@ -32,6 +32,21 @@ Publications
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
+    <a href="https://2025.aclweb.org/" style="text-decoration: none;">[ACL-2025]</a>
+    <a href="https://arxiv.org/abs/2410.21647" style="text-decoration: none;"><em>Can Language Models Replace Programmers? REPOCOD Says 'Not Yet'</em></a>
+    <br>
+    Shanchao Liang, <b>Nan Jiang</b>, Yiran Hu, Lin Tan
+    <a href="https://huggingface.co/datasets/lt-asset/REPOCOD" style="text-decoration: none;" class="button">Data</a>
+  </li>
+  <li>
+    <a href="https://2025.aclweb.org/" style="text-decoration: none;">[ACL-2025]</a>
+    <a href="https://arxiv.org/abs/2410.18362" style="text-decoration: none;"><em>WAFFLE: Multi-Modal Model for Automated Front-End Development</em></a>
+    <br>
+    Shanchao Liang, <b>Nan Jiang</b>, Shangshu Qian, Lin Tan
+    <a href="https://huggingface.co/lt-asset/Waffle_VLM_WebSight" style="text-decoration: none;" class="button">Model</a>
+    <a href="https://github.com/lt-asset/Waffle" style="text-decoration: none;" class="button">Data</a>
+  </li>
+  <li>
     <a href="https://iclr.cc/Conferences/2025" style="text-decoration: none;">[ICLR-2025]</a>
     <a href="https://arxiv.org/abs/2311.13721" style="text-decoration: none;"><em>Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning</em></a>
     <br>
@@ -130,19 +145,6 @@ Preprints
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
-    <a href="https://arxiv.org/abs/2410.21647" style="text-decoration: none;"><em>Can Language Models Replace Programmers? REPOCOD Says 'Not Yet'</em></a>
-    <br>
-    Shanchao Liang, Yiran Hu, <b>Nan Jiang</b>, Lin Tan
-    <a href="https://huggingface.co/datasets/lt-asset/REPOCOD" style="text-decoration: none;" class="button">Data</a>
-  </li>
-  <li>
-    <a href="https://arxiv.org/abs/2410.18362" style="text-decoration: none;"><em>WAFFLE: Multi-Modal Model for Automated Front-End Development</em></a>
-    <br>
-    Shanchao Liang, <b>Nan Jiang</b>, Shangshu Qian, Lin Tan
-    <a href="https://huggingface.co/lt-asset/Waffle_VLM_WebSight" style="text-decoration: none;" class="button">Model</a>
-    <a href="https://github.com/lt-asset/Waffle" style="text-decoration: none;" class="button">Data</a>
-  </li>
-  <li>
     <a href="https://arxiv.org/abs/2410.09997" style="text-decoration: none;"><em>Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code</em></a>
     <br>
     <b>Nan Jiang</b>, Qi Li, Lin Tan, Tianyi Zhang
@@ -153,6 +155,15 @@ Preprints
 Services
 -----
 <ul style="line-height: 1.2; font-size:16px">
+  <li>
+    PC Member, <a href="https://conf.researchr.org/home/ase-2025" style="text-decoration: none;">ASE 2025</a>
+  </li>
+  <li>
+    PC Member, <a href="https://cikm2025.org/" style="text-decoration: none;">CIKM 2025</a>
+  </li>
+  <li>
+    PC Member, <a href="https://neurips.cc/Conferences/2025/CallForDatasetsBenchmarks" style="text-decoration: none;">NeurIPS 2025 Datasets & Benchmark Track</a>
+  </li>
   <li>
     PC Member, <a href="https://conf.researchr.org/track/forge-2025/forge-2025-benchmarking" style="text-decoration: none;">FORGE 2025 Data and Benchmarking Track (Co-located with ICSE 2025)</a>
   </li>
