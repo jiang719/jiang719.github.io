@@ -32,6 +32,12 @@ Publications
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
+    <a href="https://conf.researchr.org/home/icse-2026" style="text-decoration: none;">[ICSE-2026]</a>
+    <a href="https://arxiv.org/abs/2506.14683" style="text-decoration: none;"><em>Unified Software Engineering agent as AI Software Engineer</em></a>
+    <br>
+    Leonhard Applis, Yuntong Zhang, Shanchao Liang, <b>Nan Jiang</b>, Lin Tan, Abhik Roychoudhury
+  </li>
+  <li>
     <a href="https://2025.aclweb.org/" style="text-decoration: none;">[ACL-2025]</a>
     <a href="https://arxiv.org/abs/2410.21647" style="text-decoration: none;"><em>Can Language Models Replace Programmers? REPOCOD Says 'Not Yet'</em></a>
     <br>
