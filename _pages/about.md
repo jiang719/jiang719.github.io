@@ -227,7 +227,7 @@ Education
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
-    Ph.D in Computer Science, <a href="https://www.cs.purdue.edu/" style="text-decoration: none;">Purdue University</a>, 2025 (expected)
+    Ph.D in Computer Science, <a href="https://www.cs.purdue.edu/" style="text-decoration: none;">Purdue University</a>, 2025
   </li>
   <li>
     B.S. in Computer Science, <a href="https://english.pku.edu.cn/" style="text-decoration: none;">Peking University</a>, 2019
