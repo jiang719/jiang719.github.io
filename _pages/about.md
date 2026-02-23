@@ -21,7 +21,7 @@ redirect_from:
 </style>
 
 
-<p style="font-size:16px">I am a Senior Applied Scientist at Microsoft Office AI, where I focus on advancing intelligent document understanding and generation to enhance workplace productivity. I earned my Ph.D. in Computer Science from <a href="https://www.cs.purdue.edu/" style="text-decoration: none;">Purdue University</a>, advised by Prof. <a href="https://www.cs.purdue.edu/homes/lintan/" style="text-decoration: none;">Lin Tan</a>.</p> 
+<p style="font-size:16px">I am a Senior Applied Scientist at <a href="https://www.microsoft.com/" style="text-decoration: none;">Microsoft</a> Office AI, where I focus on advancing intelligent document understanding and generation to enhance workplace productivity. I earned my Ph.D. in Computer Science from <a href="https://www.cs.purdue.edu/" style="text-decoration: none;">Purdue University</a>, advised by Prof. <a href="https://www.cs.purdue.edu/homes/lintan/" style="text-decoration: none;">Lin Tan</a>.</p> 
 
 <p style="font-size:16px">My research broadly explores how AI can transform the way software is created, maintained, and used. I develop methods for code generation, automated program repair, and vulnerability detection to accelerate development, reduce errors, and improve software reliability. At Microsoft, I extend these ideas to document intelligence, building systems that help knowledge workers understand, draft, and edit documents more efficiently.</p>
 
@@ -205,7 +205,8 @@ Services
   </li>
 </ul>
 
-Teaching
+
+<!-- Teaching
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
@@ -220,7 +221,7 @@ Teaching
   <li>
     Teaching Assistant, CS180 Problem Solving and Object-Oriented Programming, Purdue University (Spring 2020)
   </li>
-</ul>
+</ul> -->
 
 
 Education
