@@ -162,6 +162,9 @@ Services
 -----
 <ul style="line-height: 1.2; font-size:16px">
   <li>
+    PC Member, <a href="https://conf.researchr.org/home/ase-2026" style="text-decoration: none;">ASE 2026</a>
+  </li>
+  <li>
     PC Member, <a href="https://aaai.org/conference/aaai/aaai-26/" style="text-decoration: none;">AAAI 2026</a>
   </li>
   <li>
